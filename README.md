@@ -43,3 +43,6 @@ Today I Leran
 ## 01.03
 * 이터레이터에 관해 공부하였다
   - [Symbol.iterator]는 순회할 때마다 호출되는 메서드이며, 이터러블은 [Symbol.iterator] 메서드를 포함한 원본 객체 자체, 이터레이터는 순회할 때마다 새로 반환되는 값(value와 done을 담은 객체)을 의미함.
+* 스프레드 문법(concat, splice, slice 대체), rest parameter에 대해 공부하였다.
+  - 무언가를 배열로 바꿀 때는 스프레드 문법보다 Array.from이 보편적으로 사용, 배열이나 객체를 복사 시 스프레드 문법 사용.
+* 다음에 알아 볼 것: async 이터레이터에 대해 이해하기
