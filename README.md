@@ -59,3 +59,5 @@ Today I Leran
 * 프로미스(.then/.catch/.finally 메서드), 프로미스 체이닝, async/await에 대해 공부하였다.
   - 결과가 어떻든 마무리가 필요하면 finally가 유용함. async/await를 사용하면 promise.then/catch가 거의 필요 없음.
 * 다음에 알아 볼 것: thenable객체에 대해 더 알아보기. fetch의 선택 매개변수 공부하기.
+* 제너레이터에 관해 공부하였다
+* 에러(catch, throw)를 공부하며 타입스크립트의 중요성에 대하여 알게 되었다.
