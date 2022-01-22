@@ -1,6 +1,7 @@
 # TIL
-Today I Leran
-12.20 ~ 자바스크립트 공부 시작
+Today I Learn
+* 12.20 ~ 01.11 자바스크립트
+* 01.17 ~ 01.21 html, css
 
 ## 12.20
 * 첫 velog글을 올렸다. 
