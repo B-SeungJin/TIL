@@ -8,3 +8,6 @@ Today I Learn
   - 방학기간동안 강의를 마치고 사이트를 제작할 계획이다.
 ## 06.28
 * 파이썬 기본 문법(리스트, 딕셔너리, 집합등)과 관련 함수를 공부하였다.
+* 객체지향 프로그래밍에 대하여 익혔다.
+  - 1. class 설계: atrribute(=변수)과 method(=함수) 구성 2. class를 기반으로 필요한 object 생성
+  - 파이썬 method는 항상 첫 번째 파라미터로 self 사용, 클래스의 atrribute는 내부에서 접근시, self.attribute명으로 접근 
