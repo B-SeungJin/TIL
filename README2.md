@@ -11,3 +11,7 @@ Today I Learn
 * 객체지향 프로그래밍에 대하여 익혔다.
   - 1. class 설계: atrribute(=변수)과 method(=함수) 구성 2. class를 기반으로 필요한 object 생성
   - 파이썬 method는 항상 첫 번째 파라미터로 self 사용, 클래스의 atrribute는 내부에서 접근시, self.attribute명으로 접근 
+## 07.02
+* 파이썬 크롤링 패턴에 대해 이해하였다.
+  - CSS Selector 방법(리스트 형태 반환)도 사용하였다.
+* 크롤링과 관련된 HTML, CSS에 대해 알아보았다.
