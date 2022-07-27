@@ -54,3 +54,5 @@ Today I Learn
   - PyCharm을 통해 빠르게 구현이 가능하다.
 ## 07.28
 * 실제 수집하고 저장한 데이터를 SQL 문법을 익히며, 데이터 분석을 해보았다.
+  - WHERE, GROUP BY, HAVING, ORDER BY순으로 작성.
+  - FROM 테이블1 INNER JOIN 테이블2 ON 매칭조건.
