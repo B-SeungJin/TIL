@@ -57,3 +57,5 @@ Today I Learn
   - WHERE, GROUP BY, HAVING, ORDER BY순으로 작성.
   - FROM 테이블1 INNER JOIN 테이블2 ON 매칭조건.
 * 서브쿼리 문법과 JOIN문법 비교하며 익혔다.
+* 인프런 강좌 수강 완료
+  - SQL/DB(MySQL) 기본부터 파이썬/데이터분석 활용까지!: 07.15~07.25
