@@ -56,3 +56,4 @@ Today I Learn
 * 실제 수집하고 저장한 데이터를 SQL 문법을 익히며, 데이터 분석을 해보았다.
   - WHERE, GROUP BY, HAVING, ORDER BY순으로 작성.
   - FROM 테이블1 INNER JOIN 테이블2 ON 매칭조건.
+* 서브쿼리 문법과 JOIN문법 비교하며 익혔다.
