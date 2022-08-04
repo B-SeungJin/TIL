@@ -64,3 +64,4 @@ Today I Learn
 ## 08.05
 * mongodb와 Studio 3T를 설치하고 환경 구축을 하였다.
   - 클라우드 환경에서의 리눅스 설치, 서버 생성은 필요 시 참고한다.
+* database와 collection을 생성, 삭제해보았다.
