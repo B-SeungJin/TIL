@@ -66,3 +66,5 @@ Today I Learn
   - 클라우드 환경에서의 리눅스 설치, 서버 생성은 필요 시 참고한다.
 * database와 collection을 생성, 삭제해보았다.
 ## 08.08
+* 기존 SQL문법과 비교하여 mongoDB 문법(CRUD)을 알아보았다.
+  - velog를 통해 글로 정리하였다.
