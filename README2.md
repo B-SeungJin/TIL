@@ -68,3 +68,5 @@ Today I Learn
 ## 08.08
 * 기존 SQL문법과 비교하여 mongoDB 문법(CRUD)을 알아보았다.
   - velog를 통해 글로 정리하였다.
+## 08.09
+* pymongo 라이브러리를 통해 파이썬으로 mongoDB를 다루었다.
