@@ -70,3 +70,6 @@ Today I Learn
   - velog를 통해 글로 정리하였다.
 ## 08.09
 * pymongo 라이브러리를 통해 파이썬으로 mongoDB를 다루었다.
+## 08.10
+* 파일을 GET방식이 아닌 POST방식을 통해 전달하는 사이트를 크롤링하였다.
+  - 크롬 개발자모드에서 Network -> content 에 Form Data 정보를 이용해야 함.
