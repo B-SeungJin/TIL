@@ -75,3 +75,4 @@ Today I Learn
   - 크롬 개발자모드에서 Network -> content 에 Form Data 정보를 이용해야 함.
 ## 08.12
 * mongoDB 검색문법에 대하여 알아보고 직접 실행해보았다.
+* 데이터 검색을 빠르게 수행하고자 만든 mongoDB index에 대해 알아보고 적용하였다.
