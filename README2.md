@@ -73,3 +73,5 @@ Today I Learn
 ## 08.10
 * 파일을 GET방식이 아닌 POST방식을 통해 전달하는 사이트를 크롤링하였다.
   - 크롬 개발자모드에서 Network -> content 에 Form Data 정보를 이용해야 함.
+## 08.12
+* mongoDB 검색문법에 대하여 알아보고 직접 실행해보았다.
