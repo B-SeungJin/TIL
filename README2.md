@@ -80,3 +80,4 @@ Today I Learn
 * 인프런 강좌 수강 완료
   - NoSQL DB(몽고 DB/mongodb) 기본부터 파이썬/데이터분석 활용까지!: 08.05 ~ 08.12
 ## 08.18
+* Django가 아닌 flask를 통해 백엔드 기술을 익힌다.
