@@ -83,3 +83,4 @@ Today I Learn
 * Django가 아닌 flask를 통해 백엔드 기술을 익힌다.
   - flask는 Django와 달리 다른 언어/프레임워크에 대한 적용이 용이함.
   - flask는 마이크로 프레임워크 기반 언어.
+* flask의 __name__ 문법과 routing 설정을 알고 웹서버를 실행해보았다.
