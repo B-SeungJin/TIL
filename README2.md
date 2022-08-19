@@ -85,3 +85,5 @@ Today I Learn
   - flask는 마이크로 프레임워크 기반 언어.
 * flask의 __name__ 문법과 routing 설정을 알고 웹서버를 실행해보았다.
 ## 08.19
+* 파이썬의 First-class 함수, closure 함수, 데코레이터에 대해 익혔다.
+  - python, javascript등에서 활용가능하기에 꼼꼼히 공부하기.
