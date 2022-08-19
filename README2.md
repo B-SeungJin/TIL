@@ -88,3 +88,4 @@ Today I Learn
 * 파이썬의 First-class 함수, closure 함수, 데코레이터에 대해 익혔다.
   - python, javascript등에서 활용가능하기에 꼼꼼히 공부하기.
   - velog에 글을 통해 정리하였다.
+* 파이썬 format()함수에 대해 알아보았다.
