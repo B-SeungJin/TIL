@@ -93,3 +93,5 @@ Today I Learn
 ## 08.21
 * HTTP 프로토콜에 대해 이해하고 Rest API를 구현해보았다.
   - httpie 사용
+* GET방식과 URL, HTML에 대해 알아보았다.
+* 부트스트랩을 사용해 웹페이지에 적용해보았다.
