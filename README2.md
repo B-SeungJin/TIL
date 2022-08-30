@@ -117,3 +117,5 @@ Today I Learn
 * flask blueprint 기능에 대해서 익혔다.
 ## 08.30
 * flask_login의 주요 동작방식(attribute 등)을 살펴보았다.
+* 블로그 구현을 위한 클래스 코드 작성을 위해 파이썬 객체 지향에 대해 다시 한번
+복습하였다.
