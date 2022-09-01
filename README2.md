@@ -124,3 +124,4 @@ Today I Learn
 * 부트스트랩을 이용해 블로그 페이지를 만들었다.
 * 블로그 구독기능을 구현하였다.
   - post방식을 사용해 이메일을 전달받음
+  - https://growingsaja.tistory.com/275
