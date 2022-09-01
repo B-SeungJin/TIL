@@ -114,6 +114,7 @@ Today I Learn
 * 간단한 블로그 웹사이트(MVP)를 기획하는 법을 알아보았다.
   - ABTest기능을 포함, MVC패턴을 통해 구성한다.
   - mysql, mongodb를 이용하기 위해 설치, 준비한다.
+    + https://www.delftstack.com/ko/howto/mysql/start-mysql-server/
 * flask blueprint 기능에 대해서 익혔다.
 ## 08.30
 * flask_login의 주요 동작방식(attribute 등)을 살펴보았다.
