@@ -140,3 +140,5 @@ Today I Learn
 * CSS Selector 관련 강의를 보며 실습을 진행하였다.
 ## 09.08
 * CSS 박스모델(margin-border-padding-content)에 대해 익혔다.
+* CSS background, block-inline 요소, font에 대한 강의를 보았다.
+* CSS position, transition, animation등에 대해 알고 실습을 진행하였다.
