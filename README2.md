@@ -138,3 +138,5 @@ Today I Learn
 * 모던 웹을 위한 관련 개념(크로스 브라우징, 이미지 포맷 등)들을 익혔다.
 * CSS의 배경지식, 단위 등 기본적인 것들을 알아보았다.
 * CSS Selector 관련 강의를 보며 실습을 진행하였다.
+## 09.08
+* CSS 박스모델(margin-border-padding-content)에 대해 익혔다.
