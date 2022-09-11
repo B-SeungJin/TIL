@@ -142,3 +142,6 @@ Today I Learn
 * CSS 박스모델(margin-border-padding-content)에 대해 익혔다.
 * CSS background, block-inline 요소, font에 대한 강의를 보았다.
 * CSS position, transition, animation등에 대해 알고 실습을 진행하였다.
+## 09.11
+* CSS 상속과 우선순위(cascading)에 대해 이해하였다.
+* 반응형에 대해 익히고 CSS 미디어쿼리를 공부하였다.
