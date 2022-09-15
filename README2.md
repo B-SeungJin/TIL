@@ -153,3 +153,4 @@ Today I Learn
 * Javascript / VanillaJS / ES6 에 대해 이해하고 Javascript의 기본 문법, 데이터 타입등을 알아보았다.
 * Javascript와 ES6의 객체 선언 기법에 대해 익혔다.
   - 화살표 함수에는 this 선언X, extens-super를 사용한 상속.
+* Javascript의 반복문, 배열문법까지 익혀보았다.
