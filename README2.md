@@ -151,3 +151,5 @@ Today I Learn
 * 인프런 강의를 통해 나의 첫 프로젝트 TalkingTravel 메인페이지를 만들었다.
 ## 09.15
 * Javascript / VanillaJS / ES6 에 대해 이해하고 Javascript의 기본 문법, 데이터 타입등을 알아보았다.
+* Javascript와 ES6의 객체 선언 기법에 대해 익혔다.
+  - 화살표 함수에는 this 선언X, extens-super를 사용한 상속.
