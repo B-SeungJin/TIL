@@ -149,3 +149,5 @@ Today I Learn
 * CSS flexbox에 대한 강의를 총 3개 들으며 익히고 실습을 하였다.
 ## 09.13
 * 인프런 강의를 통해 나의 첫 프로젝트 TalkingTravel 메인페이지를 만들었다.
+## 09.15
+* Javascript / VanillaJS / ES6 에 대해 이해하고 Javascript의 기본 문법, 데이터 타입등을 알아보았다.
