@@ -154,3 +154,4 @@ Today I Learn
 * Javascript와 ES6의 객체 선언 기법에 대해 익혔다.
   - 화살표 함수에는 this 선언X, extens-super를 사용한 상속.
 * Javascript의 반복문, 배열문법까지 익혀보았다.
+## 09.16
