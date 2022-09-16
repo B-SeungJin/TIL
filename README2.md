@@ -155,3 +155,5 @@ Today I Learn
   - 화살표 함수에는 this 선언X, extens-super를 사용한 상속.
 * Javascript의 반복문, 배열문법까지 익혀보았다.
 ## 09.16
+* 구조분해할당, 호이스팅 이슈, 콜백함수, promise 등을 공부하였다.
+* Javascript DOM을 이해하고 CRUD문법을 적용해보았다.
