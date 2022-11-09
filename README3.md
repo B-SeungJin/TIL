@@ -7,5 +7,8 @@ Today I Learn
   - 구글 맵에 마커(주요 장소)를 표시하였다.
     + https://developers.google.com/maps/documentation/javascript/adding-a-google-map?hl=ko
   - 마커를 클릭시 중심이 동적으로 바뀌게 하였다.
-## 11.28
+## 11.08
 * 간단하게 상단바를 구축하였다.
+## 11.09
+* 상단바를 프로젝트 방향성에 맞게 수정하였다.
+* MySQL에 travel테이블을 생성하고, 장소에 대한 데이터를 삽입하였다.
