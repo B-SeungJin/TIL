@@ -14,3 +14,6 @@ Today I Learn
 * MySQL에 travel테이블을 생성하고, 장소에 대한 데이터를 삽입하였다.
 * 앞으로 할 것: nodejs에 대해 공부하고, mysql과 연동하는 법을 익힌다.
   - https://opentutorials.org/course/3332
+## 11.11
+* nodejs를 설치, atom을 통해 실행하는 법을 익혔다.
+* 제목과 본문이 동적으로 실행되는 법을 익혔다.
