@@ -24,3 +24,4 @@ Today I Learn
 * 자바스크립트의 반복문과 배열을 이용해 글목록을 출력하였다.
   - fs.readdir()함수 이용, 파일을 추가시 html코드를 수정할 필요가 없음.
 * 함수를 이용하여 중복되는 코드를 정리시켰다.
+* https://opentutorials.org/course/3332/21128
