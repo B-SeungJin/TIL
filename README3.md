@@ -27,3 +27,5 @@ Today I Learn
 * https://opentutorials.org/course/3332/21128
 ## 11.15
 * PM2를 설치하고 패키지 매니저에 대해 알아보았다.
+* html form에 대해 공부하고 post형식으로 전달하는 법을 배웠다.
+* 글생성 UI를 만들고 이를 통해 post형식으로 정보를 전달받았다.
