@@ -25,3 +25,5 @@ Today I Learn
   - fs.readdir()함수 이용, 파일을 추가시 html코드를 수정할 필요가 없음.
 * 함수를 이용하여 중복되는 코드를 정리시켰다.
 * https://opentutorials.org/course/3332/21128
+## 11.15
+* PM2를 설치하고 패키지 매니저에 대해 알아보았다.
