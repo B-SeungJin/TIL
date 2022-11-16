@@ -31,3 +31,6 @@ Today I Learn
 * 글생성 UI를 만들고 이를 통해 post형식으로 정보를 전달받았다.
   - request.on()함수 이용, parse()함수를 통해 정보를 객체화
 * 파일을 생성하는 법과 리다이렉션에 대해 익혔다.
+## 11.16
+* 파일 이름과 내용을 수정하는 법에 대하여 익혔다.
+  - fs.rename(oldPath, newPath, callback)
