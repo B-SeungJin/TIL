@@ -37,3 +37,6 @@ Today I Learn
 * 파일과 파일 내용을 삭제하는 법에 대하여 익혔다.
   - fs.unlink(path, callback)
 * https://opentutorials.org/course/3332/21143
+## 11.19
+* 값으로서의 함수를 알고 객체에 이를 담아보았다.
+* 지금까지 짜온 코드를 리팩토링 하였다.
