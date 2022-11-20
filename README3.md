@@ -46,3 +46,5 @@ Today I Learn
 ## 11.20
 * vscode상에서 mysql을 접속하는데에 진땀을 뺐다.
   - "C:\Program Files\MySQL\MySQL Server 8.0\bin\mysql" -uroot -p
+* Nodejs 와 mysql 연동시 오류를 수정하였다.
+  - https://lifeinprogram.tistory.com/22
