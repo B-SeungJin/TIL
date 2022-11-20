@@ -43,3 +43,6 @@ Today I Learn
 * 모듈의 형식에 대해 알고 이를 적용해보았다.
   - module.exports 와 require()
 * 입력, 출력 시 보안오류 예시와 함께 이를 대처하는 방법에 대해 알아보았다.
+## 11.20
+* vscode상에서 mysql을 접속하는데에 진땀을 뺐다.
+  - "C:\Program Files\MySQL\MySQL Server 8.0\bin\mysql" -uroot -p
