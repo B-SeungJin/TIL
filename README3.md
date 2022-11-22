@@ -48,3 +48,5 @@ Today I Learn
   - "C:\Program Files\MySQL\MySQL Server 8.0\bin\mysql" -uroot -p
 * Nodejs 와 mysql 연동시 오류를 수정하였다.
   - https://lifeinprogram.tistory.com/22
+## 11.22
+* mysql로 홈페이지 구현을 해보았다.
