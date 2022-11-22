@@ -50,3 +50,5 @@ Today I Learn
   - https://lifeinprogram.tistory.com/22
 ## 11.22
 * mysql로 홈페이지 구현을 해보았다.
+* mysql에서 정보를 받아오는 함수와 구글맵에 마커표시를 하는 함수가 함께 실행 X
+  - mysql에서 정보를 받아오느 코드를 다른 파일에서 실행하여 가져오는 방법 서칭
