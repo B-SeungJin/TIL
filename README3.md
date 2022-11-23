@@ -58,3 +58,4 @@ Today I Learn
 * express로 페이지를 띄우고 GET과 POST 함수 사용법을 익혔다.
 * ejs - html의 태그처럼 자바스크립트 내용을 삽입 가능.
 * 여전히 오류가 발생한다.
+  - 결과를 rows에 저장했지만 ejs파일에 전달이 안된다.
