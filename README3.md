@@ -62,3 +62,5 @@ Today I Learn
 ## 11.24
 * db에서 가져온 결과 rows을 어떻게 ejs파일로 전달해야하는지 모르겠다.
 * php를 쓰라는 말도 있지만 nodejs 사용을 피하게 되는 것이라 계속 부딪혀본다.
+* mysql 과 ejs를 활용할거기에 이를 서칭하여 해결법을 찾으려고 한다.
+  - https://peamexx.tistory.com/118
