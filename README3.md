@@ -59,8 +59,11 @@ Today I Learn
 * ejs - html의 태그처럼 자바스크립트 내용을 삽입 가능.
 * 여전히 오류가 발생한다.
   - 결과를 rows에 저장했지만 ejs파일에 전달이 안된다.
-## 11.24
+## 11.27
 * db에서 가져온 결과 rows을 어떻게 ejs파일로 전달해야하는지 모르겠다.
 * php를 쓰라는 말도 있지만 nodejs 사용을 피하게 되는 것이라 계속 부딪혀본다.
 * mysql 과 ejs를 활용할거기에 이를 서칭하여 해결법을 찾으려고 한다.
   - https://peamexx.tistory.com/118
+## 11.28
+* npm run dev 명령을 통해 서버를 여는데 자꾸 무한로딩이 걸린다.
+  - 경로를 server.js에서 paris/server.js로 하니 해결되었다.
