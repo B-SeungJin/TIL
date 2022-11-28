@@ -67,3 +67,4 @@ Today I Learn
 ## 11.28
 * npm run dev 명령을 통해 서버를 여는데 자꾸 무한로딩이 걸린다.
   - 경로를 server.js에서 paris/server.js로 하니 해결되었다.
+* 4일간 꼬박 붙들어맨 끝에 rows에 담긴 값을 ejs에 전달하고 화면에 뿌릴 수 있게 되었다.
