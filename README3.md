@@ -71,3 +71,6 @@ Today I Learn
 ## 11.30
 * object타입인 list를 array로 바꾸어 함수를 적용할 수 있게 하였다.
 * 드디어 mysql에서 받아온 데이터들을 구글마커에 완벽하게 적용할 수 있게 되었다.
+## 12.04
+* node환경에서 ejs파일에 css가 적용되지 않는 오류를 해결하였다.
+  - app.use(express.static('paris'))를 통해 정적파일을 사용 가능.
