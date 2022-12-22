@@ -122,3 +122,4 @@ Today I Learn
 ## 12.22
 * state([mode, setMode] = useState();)에 대해 익혔다.
   - 완벽히 이해하진 못했지만 이를 활용하면 상세페이지 구현을 할 수 있을 것이다.
+    + https://opentutorials.org/course/4900/31268
