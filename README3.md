@@ -123,3 +123,4 @@ Today I Learn
 * state([mode, setMode] = useState();)에 대해 익혔다.
   - 완벽히 이해하진 못했지만 이를 활용하면 상세페이지 구현을 할 수 있을 것이다.
     + https://opentutorials.org/course/4900/31268
+* 현재 nodejs와 express를 이용해 mysql의 데이터를 받아와 페이지를 구현하고 있는데
