@@ -126,3 +126,6 @@ Today I Learn
 * 현재 nodejs와 express를 이용해 mysql의 데이터를 받아와 페이지를 구현하고 있는데
   - react를 이용시 리덕스를 알고 mysql 연결방법을 또 공부해야 한다.
     + express를 사용해 페이지를 먼저 구현해보는 것이 맞다고 생각이 들었다.
+## 12.26
+* 내가 사용하는 기술과 구현할 SPA에 딱 맞는 영상을 찾았다.
+  - https://www.youtube.com/watch?v=s54r4nRhf8Y&list=LL&index=3
