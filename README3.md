@@ -129,3 +129,5 @@ Today I Learn
 ## 12.26
 * 내가 사용하는 기술과 구현할 SPA에 딱 맞는 영상을 찾았다.
   - https://www.youtube.com/watch?v=s54r4nRhf8Y&list=LL&index=3
+## 12.28
+* 해당 장소 클릭시 이미지를 불러왔다.
