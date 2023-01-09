@@ -131,3 +131,6 @@ Today I Learn
   - https://www.youtube.com/watch?v=s54r4nRhf8Y&list=LL&index=3
 ## 12.28
 * 해당 장소 클릭시 이미지를 불러왔다.
+## 01.09
+* location.href의 get방식을 이용하여 parameter값을 전달해주었다.
+  - id값을 전달하여 상세 정보를 볼 수 있게 하였다.
