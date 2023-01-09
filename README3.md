@@ -134,3 +134,4 @@ Today I Learn
 ## 01.09
 * location.href의 get방식을 이용하여 parameter값을 전달해주었다.
   - id값을 전달하여 상세 정보를 볼 수 있게 하였다.
+* exit버튼 클릭 시 메인화면으로 이동
