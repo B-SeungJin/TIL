@@ -157,3 +157,6 @@ Today I Learn
   - 이미지가 4개이하일때 값을 6까지 증가하는 오류를 수정해야한다. 일단 보류!!
     + https://ljtaek2.tistory.com/148 다음에 이를 Redux로 구현가능하다.
 ## 01.31
+* React-express-mysql을 연결하였다.
+  -  https://www.youtube.com/watch?v=Qw_3aHl_s8A&list=PLyYlp2Ybut2F1Ookyok541cam0eUw2zr2&index=59
+* axios를 통해 비동기적으로 mysql의 데이터를 가져온다.
