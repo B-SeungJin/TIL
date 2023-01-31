@@ -160,3 +160,4 @@ Today I Learn
 * React-express-mysql을 연결하였다.
   -  https://www.youtube.com/watch?v=Qw_3aHl_s8A&list=PLyYlp2Ybut2F1Ookyok541cam0eUw2zr2&index=59
 * axios를 통해 비동기적으로 mysql의 데이터를 가져온다.
+  - 콘솔창에 데이터를 찍었다.
