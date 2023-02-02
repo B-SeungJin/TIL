@@ -162,3 +162,7 @@ Today I Learn
   -  https://www.youtube.com/watch?v=Qw_3aHl_s8A&list=PLyYlp2Ybut2F1Ookyok541cam0eUw2zr2&index=59
 * axios를 통해 비동기적으로 mysql의 데이터를 가져온다.
   - 콘솔창에 데이터를 찍었다.
+## 02.02
+* React문법에 대하여 공부한다.
+  - 함수형 컴포넌트, props등에 대하여 익힘
+    + https://www.youtube.com/watch?v=uAw5Dd7FyRk&list=LL&index=4&t=2404s (50분)
