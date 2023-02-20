@@ -165,4 +165,7 @@ Today I Learn
 ## 02.02
 * React문법에 대하여 공부한다.
   - 함수형 컴포넌트, props등에 대하여 익힘
-    + https://www.youtube.com/watch?v=uAw5Dd7FyRk&list=LL&index=4&t=2404s (50분)
+    + https://www.youtube.com/watch?v=uAw5Dd7FyRk&list=LL&index=4&t=2404s
+## 02.20
+* 페이지네이션을 구현하였다.
+  - https://www.youtube.com/watch?v=d-w4ovLiz48&t=3025s
