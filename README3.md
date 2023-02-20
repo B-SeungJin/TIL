@@ -169,3 +169,4 @@ Today I Learn
 ## 02.20
 * 페이지네이션을 구현하였다.
   - https://www.youtube.com/watch?v=d-w4ovLiz48&t=3025s
+  - https://www.youtube.com/watch?v=jGpoUyva2Vc&t=4017s
