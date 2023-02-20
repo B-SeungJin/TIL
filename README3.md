@@ -167,6 +167,9 @@ Today I Learn
   - 함수형 컴포넌트, props등에 대하여 익힘
     + https://www.youtube.com/watch?v=uAw5Dd7FyRk&list=LL&index=4&t=2404s
 ## 02.20
-* 페이지네이션을 구현하였다.
+* 리액트 프로젝트 -> 틀을 만들고 mysql의 데이터들을 출력하였다.
   - https://www.youtube.com/watch?v=d-w4ovLiz48&t=3025s
-  - https://www.youtube.com/watch?v=jGpoUyva2Vc&t=4017s
+
+
+* 페이지네이션에 대하여 공부한다.
+  - https://www.youtube.com/watch?v=jGpoUyva2Vc&t=4017s 33분
