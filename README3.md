@@ -173,3 +173,4 @@ Today I Learn
 
 * 페이지네이션에 대하여 공부한다.
   - https://www.youtube.com/watch?v=jGpoUyva2Vc&t=4017s 33분
+  - https://chanhuiseok.github.io/posts/react-12/
