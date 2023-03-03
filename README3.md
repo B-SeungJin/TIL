@@ -170,7 +170,9 @@ Today I Learn
 * 리액트 프로젝트 -> 틀을 만들고 mysql의 데이터들을 출력하였다.
   - https://www.youtube.com/watch?v=d-w4ovLiz48&t=3025s
 ## 03.03
-
+* useState 에 대해 알고 프로젝트에 적용하였다.
+  - https://react.vlpt.us/basic/07-useState.html
+* useEffect 훅을 사용하여 최초 렌더링시 작업을 수행하게 하였다.
 
 
 * 페이지네이션에 대하여 공부한다.
