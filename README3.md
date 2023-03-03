@@ -173,8 +173,8 @@ Today I Learn
 * useState 에 대해 알고 프로젝트에 적용하였다.
   - https://react.vlpt.us/basic/07-useState.html
 * useEffect 훅을 사용하여 최초 렌더링시 작업을 수행하게 하였다.
-
-
+* 배열postList를 postMain으로 넘겨주고 PostList.js, Post.js에서 처리한다. 
 * 페이지네이션에 대하여 공부한다.
-  - https://www.youtube.com/watch?v=jGpoUyva2Vc&t=4017s 33분
+  - https://www.youtube.com/watch?v=jGpoUyva2Vc&t=4017s 33분부터
+  - - https://www.youtube.com/watch?v=e4hy_u5vgSw&t=339s 1시간 38분부터 -> 페이지네이션
   - https://chanhuiseok.github.io/posts/react-12/
