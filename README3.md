@@ -169,6 +169,8 @@ Today I Learn
 ## 02.20
 * 리액트 프로젝트 -> 틀을 만들고 mysql의 데이터들을 출력하였다.
   - https://www.youtube.com/watch?v=d-w4ovLiz48&t=3025s
+## 03.03
+
 
 
 * 페이지네이션에 대하여 공부한다.
