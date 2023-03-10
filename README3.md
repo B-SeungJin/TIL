@@ -178,3 +178,6 @@ Today I Learn
   - https://www.youtube.com/watch?v=jGpoUyva2Vc&t=4017s 33분부터
   - - https://www.youtube.com/watch?v=e4hy_u5vgSw&t=339s 1시간 38분부터 -> 페이지네이션
   - https://chanhuiseok.github.io/posts/react-12/
+## 03.10
+* App.js에 헤더를 생성하였다.
+* 사이드바를 이전에 했던 것처럼 생성하였다.
