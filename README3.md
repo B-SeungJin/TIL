@@ -5,7 +5,7 @@ Today I Learn
   - 12.04 ~ 12.19 : 54개의 장소 종류별 출력(조건문), 사이드바 
   - 12.21 ~ 12.22 : React 이론 공부
   - 12.28 ~ 01.25 : express를 통해 필수 기능들 구현
-  - 01.31 ~ : React이론 공부 and React + mySQL + Nodejs-Express
+  - 01.31 ~ : React이론 공부 and React + mySQL + Nodejs-Express // 잠시 휴식
 ## 11.07
 * 구글맵 api를 이용하여 파리의 지도를 표시하였다.
   - 구글 맵에 마커(주요 장소)를 표시하였다.
