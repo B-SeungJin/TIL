@@ -8,3 +8,6 @@ Today I Learn
 * 카운트 함수를 사용해 좋아요 수와 색변경을 구현하였다.
 * 모달창을 구현해보았다.
   - block
+## 03.23
+* Node express 서버 구현
+  - npm init -y / npm i express
