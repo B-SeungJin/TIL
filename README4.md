@@ -15,3 +15,4 @@ Today I Learn
 * mysql에 데이터삽입 -> 이미지와 정보 띄우기
   - 다른 사이트에 올라있는 이미지를 내 페이지에 링크형식으로 띄우려 할때 안뜨는 경우: <meta name="referrer" content="no-referrer" />
   - https://themestock7.tistory.com/113   https://stackoverflow.com/questions/6817595/remove-http-referer
+## 04.06
