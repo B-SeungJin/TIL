@@ -16,3 +16,7 @@ Today I Learn
   - 다른 사이트에 올라있는 이미지를 내 페이지에 링크형식으로 띄우려 할때 안뜨는 경우: <meta name="referrer" content="no-referrer" />
   - https://themestock7.tistory.com/113   https://stackoverflow.com/questions/6817595/remove-http-referer
 ## 04.06
+* 댓글창을 구현하였다. 
+  - preventDefault() : 페이지 이동 X
+* 댓글을 삭제하는 기능을 구현하였다.
+  - 이벤트 위임, event.target을 활용해 클릭한 것만 삭제 진행.
