@@ -1,6 +1,7 @@
 # TIL
 Today I Learn
-  - 03.16 ~ : 인스타그램 클론코딩 시작
+  - 03.16 ~ 04.06 : 인스타그램 클론코딩
+  - 05.04 : 개발동아리 팀 프로젝트 시작
 
 ## 03.17
 * 자바스크립트 onclick과 addEventListener메서드의 차이를 알아보았다.
@@ -21,3 +22,7 @@ Today I Learn
 * 댓글을 삭제하는 기능을 구현하였다.
   - 이벤트 위임, event.target을 활용해 클릭한 것만 삭제 진행.
 * https://velog.io/@hanei100/Udemy-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EB%A1%9C-%EB%8C%93%EA%B8%80-%EC%9E%91%EC%84%B1-%EA%B8%B0%EB%8A%A5-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B01
+## 05.04
+* 폼 태그를 통해 신청 목록 작성
+  - https://www.nextree.co.kr/p8428/
+
