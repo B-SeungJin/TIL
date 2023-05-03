@@ -25,4 +25,6 @@ Today I Learn
 ## 05.04
 * 폼 태그를 통해 신청 목록 작성
   - https://www.nextree.co.kr/p8428/
-
+* 태그를 꾸미고 업로드 파일을 숨길 수 있다.
+  - https://velog.io/@wannabeing/JavaScript-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%97%85%EB%A1%9C%EB%93%9C-%EB%AF%B8%EB%A6%AC%EB%B3%B4%EA%B8%B0
+  - https://deblisher.tistory.com/entry/html%EB%A1%9C%EA%B7%B8%EC%9D%B8-%ED%8E%98%EC%9D%B4%EC%A7%80-%EB%A7%8C%EB%93%A4%EA%B8%B0-form-label-input
