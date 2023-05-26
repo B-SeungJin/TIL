@@ -30,4 +30,5 @@ Today I Learn
   - https://deblisher.tistory.com/entry/html%EB%A1%9C%EA%B7%B8%EC%9D%B8-%ED%8E%98%EC%9D%B4%EC%A7%80-%EB%A7%8C%EB%93%A4%EA%B8%B0-form-label-input
 ## 05.26
 * 깃허브에 대해 공부하였다
-* 
+* JSP에 대해 공부하였다.
+  - https://velog.io/@aljongjong/ServletJSP-Attribute-Filter
