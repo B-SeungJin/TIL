@@ -38,3 +38,4 @@ Today I Learn
 ## 05.29
 * 백엔드에서 구현한 코드를 이해하기 위해 스프링부트로 게시판 만들기 영상을 보았다.
   - https://www.youtube.com/watch?v=frI5CoZe-vE&list=PLZzruF3-_clsWF2aULPsUPomgolJ-idGJ
+* <html xmlns:th="http://www.thymeleaf.org">를 통해 전달받은 데이터를 사용할 수 있다.
