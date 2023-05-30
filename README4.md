@@ -45,3 +45,4 @@ Today I Learn
 ## 05.31
 * 서버에 있는 json데이터를 fetch해서 콘솔창에는 출력이 잘되나, html상에는 출력에 오류가 난다.
   - https://velog.io/@nnakki/JSON-%EB%8D%B0%EC%9D%B4%ED%84%B0-HTML%EC%97%90-%EB%84%A3%EC%96%B4%EC%A3%BC%EA%B8%B0
+    + 데이터 하나하나 출력해서 확인해보아야겠다.
