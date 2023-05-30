@@ -40,5 +40,8 @@ Today I Learn
   - https://www.youtube.com/watch?v=frI5CoZe-vE&list=PLZzruF3-_clsWF2aULPsUPomgolJ-idGJ
 * <html xmlns:th="http://www.thymeleaf.org">를 통해 전달받은 데이터를 사용할 수 있다.
 * @GetMapping("/board/modify/{id}") - @PathVariable("id") Integer id -> 해당 id 전달받음.
-## 05.30
+## 05.29
 * 인텔리제이를 통해 프론트와 백서버를 통신하는 법을 배웠다.
+## 05.31
+* 서버에 있는 json데이터를 fetch해서 콘솔창에는 출력이 잘되나, html상에는 출력에 오류가 난다.
+  - https://velog.io/@nnakki/JSON-%EB%8D%B0%EC%9D%B4%ED%84%B0-HTML%EC%97%90-%EB%84%A3%EC%96%B4%EC%A3%BC%EA%B8%B0
