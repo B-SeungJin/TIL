@@ -50,3 +50,6 @@ Today I Learn
   - https://joshua1988.github.io/web-development/javascript/js-async-await/
 ## 06.01
 * fetch 통해 데이터 불러와 출력, 분류까지 구현.
+* 상세페이지로 이동 구현하기
+  - 동적으로 생성된 요소에 이벤트 
+    + https://babycoder05.tistory.com/entry/JS-%EB%8F%99%EC%A0%81%EC%9C%BC%EB%A1%9C-%EC%83%9D%EC%84%B1%EB%90%9C-%EC%9A%94%EC%86%8C%EC%97%90-%EC%9D%B4%EB%B2%A4%ED%8A%B8-%EB%B0%94%EC%9D%B8%EB%94%A9
