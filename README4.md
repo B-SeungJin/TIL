@@ -48,3 +48,5 @@ Today I Learn
     + 데이터 하나하나 출력해서 확인해보아야겠다.
 * fetch()시에 async - await 사용
   - https://joshua1988.github.io/web-development/javascript/js-async-await/
+## 06.01
+* fetch 통해 데이터 불러와 출력, 분류까지 구현.
